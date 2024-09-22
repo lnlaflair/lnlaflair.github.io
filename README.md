@@ -1,1 +1,1 @@
-# lnlaflair.github.io
+# In development: Personal website for projects
